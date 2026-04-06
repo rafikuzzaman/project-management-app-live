@@ -1,3 +1,4 @@
-# Welcome to your Lovable project
+# Project Management App
 
-TODO: Document your project here
+Live at Vercel. 
+Configured for new client with updated Supabase database.
